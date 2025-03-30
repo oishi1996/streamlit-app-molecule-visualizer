@@ -1,6 +1,5 @@
 import streamlit as st
 import io
-from PIL import Image
 from rdkit import Chem
 from rdkit.Chem import Draw
 
